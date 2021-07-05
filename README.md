@@ -4,7 +4,7 @@ This plugin outputs status info from the game Elite Dangerous to files for use a
 
 ## Installation
 
-This plugin works currently with EDMC version 5.x.x. 
+This plugin works currently with EDMC version 5.x.x. All previous versions of EDMC will cause errors in the output files.
 
 * On EDMC's Plugins settings tab press the “Open” button. This reveals the `plugins` folder where EDMC looks for plugins.
 * Download the [latest release](https://github.com/LILTTALK/EDMC_Stream-Source/releases/latest).
